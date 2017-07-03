@@ -11,8 +11,10 @@ add:
   var assert = require("assert");
 
 
-notes:
+notes volver:
 
 deepEqual
   . q es?
-  
+
+. template n strings entendi pocon
+. scope, var n let, volver
