@@ -2,6 +2,7 @@
 
 http://es6katas.org/
 
+//take out of folders, just numbers? on name place section
 
 to test on computer:
 
@@ -18,3 +19,4 @@ deepEqual
 
 . template n strings entendi pocon
 . scope, var n let, volver
+. object literals
